@@ -1,0 +1,5 @@
+Component: main
+Origin: sogOS
+Label: sogOS Updates
+Architecture: amd64
+Description: Official Master Update Server for sogOS

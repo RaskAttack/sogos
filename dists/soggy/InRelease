@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: sogOS
+Label: sogOS Updates
+Codename: soggy
+Date: Wed, 08 Apr 2026 23:56:34 UTC
+Architectures: amd64
+Components: main
+Description: Official Master Update Server for sogOS
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ ff08692d6f763484564b5b099b032dbc 124 main/binary-amd64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ b844ba4f0f94367dcb32790e38c982ec9c2dfc0b 124 main/binary-amd64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 90b8e2b3799b95cbe249aeb8781711594c057a1a9bf8de58df34347627d49428 124 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEESSemk4LgVqP9YBOB6HlHczFjXkcFAmnW60IACgkQ6HlHczFj
+Xke22QwA5GvaIpcqWOIyo8Z1M8rirEE+qFfVM+jrn70dVu2bCJuMgdCp31OlU7zP
+EH1glnbYBYgEb8ivWyoj9hZUchtklhmbWECPawdpgXcSuLpT+KymuL/jzDGlpre+
+SlbWfHC0vRLq/mu1GoeERxb4+dSuF8VzrY7/fLBRLYuPY17ZEPdQlpsRwPUekh7r
+p9LRrZzdWujT46Aj6SCtYMi7N+xv8krHHHnbTa4IoeFv2hj3uX+EaxQdFtb4IT5p
+1MJf5/bksK1c+SpiZ9t24/ufMFDpICJNoXmjQGne7SaX0tfF1HAr7fYa0rJ8kIPr
+f0Ac8VWvyCJeHndJ1oVrdXgcXX92S0e/J/5vx9YlqoYhh3kdvSh8k+1tjUHohgWe
+sTddrjh1OOjEzRRZ6zBwZfCptxob4AjYjR8S/onFPxwtacI9gA7v5h1uNq/f1bH4
+wxmA5/gR17uoDZUmBMS75DsJOq3nNAcOSyH3RbQEWYsvE6vG3Vdfx1A4/flq1MBO
+afLfNzTi
+=l3RP
+-----END PGP SIGNATURE-----
