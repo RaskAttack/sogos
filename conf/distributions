@@ -1,7 +1,0 @@
-Origin: sogOS
-Label: sogOS Updates
-Codename: soggy
-Architectures: amd64
-Components: main
-Description: Official Master Update Server for sogOS
-SignWith: E879477331635E47
